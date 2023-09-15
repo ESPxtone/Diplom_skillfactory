@@ -9,3 +9,4 @@
 * Dockerfile с описание сбора образа: Dockerfile
 * Необходимые для проекта библиотеки: requirements.txt
 * Ссылка на docker-image(образ): https://hub.docker.com/r/espxtone/diplom
+* Скриншоты работы сервиса: 1,2,3.PNG
